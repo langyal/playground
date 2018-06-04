@@ -11,6 +11,7 @@ laszlo.angyal@pan-net.eu
 ---
 Beryllium: Design, Build, Operate
 milestone: https://gitlab.tools.in.pan-net.eu/groups/cid/-/milestones/28
+<span style="font-size:0.6em; color:gray">Available inside burger-menu.</span>
 ```
 - this milestone is used as a summary of activities
 - connect bigger issues to this milestone like [_kick-off_] (https://gitlab.tools.in.pan-net.eu/cid/beryllium/blob/master/04--general.d/beryllium-kickoff.md), _overview_,  _datacenter delivery_, etc.
