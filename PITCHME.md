@@ -137,7 +137,7 @@ Beryllium: considered
 
 - building the cloud
 - using the cloud
-- general topics
+- interesting topics
 
 ---
 #### Openstack Summit: building the cloud #1
@@ -241,4 +241,39 @@ interesting topics
 ---
 ## AT&T v. Pan-Net
 
+---
+#### AT&T
+```
+- employees: fixme
+- operating system: Ubuntu
+- framework: openstack-helm (kubernetes)
+- product: airship, opensource
+- in production: yes, ~12 deployment supporting 5G
+```
+
+#### Pan-Net:
+```
+- employees: 200
+- operating system: Ubuntu
+- framework: juju
+- product: IC, private (currently)
+- in production: yes
+```
+
+---
+#### AT&T v. Pan-Net
+
+what we should learn from them:
+```
+- focus on source code management
+  - manifest files
+  - environments files
+  - .gitlab-ci.yml
+  - templates
+- pre-validation
+- approval process
+```
+
+---
+# thank you
 
