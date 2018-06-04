@@ -146,7 +146,7 @@ Beryllium: considered
   - build openstack via helm charts: <span style="font-size:0.6em"> https://github.com/openstack/openstack-helm-infra </span>
 
 - kolla
-  - kolla-ansible (docker): <span style="font-size:0.6em"> https://docs.openstack.org/kolla-ansible/latest/ </span>
+  - kolla-ansible: <span style="font-size:0.6em"> https://docs.openstack.org/kolla-ansible/latest/ </span>
   - kolla-kubernetes: <span style="font-size:0.6em"> https://docs.openstack.org/kolla-kubernetes/latest/ </span>
 
 ---
