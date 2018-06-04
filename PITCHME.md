@@ -72,6 +72,28 @@ server role defines config
 no special mgmt rack design
 ```
 
+---
+Be design highlights: management cluster design
+
+```
+we still have to use L2
+experimental: DNS based
+goal: switch to L3 technology
+currently, scaling at the mgmt plane is not an issue
+```
+
+---
+Be design highlights: Infrastructure as Code
+
+```
+gitlab integrated development: pipelines
+documentation as code (gitlab pages)
+code review: next challenge
+```
+
+---
+Be design highlights: logical networks
+![ic-network-design.001.png](ic-network-design.001.png)
 
 ---
 ## Openstack Summit 2018 May, Vancouver
