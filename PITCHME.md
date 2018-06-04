@@ -125,7 +125,7 @@ Beryllium:
 
 Lithium: not considered
 
-Beryllium: we must provide some services
+Beryllium: considered
 ```
 - ip anycast
 - object storage replication
@@ -134,6 +134,28 @@ Beryllium: we must provide some services
 
 ---
 ## Openstack Summit 2018 May, Vancouver
+
+- building the cloud
+- using the cloud
+- general topics
+
+---
+#### Openstack Summit: building the cloud #1
+
+- openstack-helm
+  - build openstack via helm charts: https://github.com/openstack/openstack-helm-infra
+
+- kolla
+  - kolla-ansible (docker): https://docs.openstack.org/kolla-ansible/latest/
+  - kolla-kubernetes: https://docs.openstack.org/kolla-kubernetes/latest/
+
+---
+#### Openstack Summit: building the cloud #2
+
+Airship: http://www.airshipit.org
+- AT&T: Rodolfo Pacheco, Alan Meadows
+- basically, openstack-helm _extra_
+- https://www.youtube.com/watch?reload=9&v=ckcLnBqGQrQ
 
 
 ---
