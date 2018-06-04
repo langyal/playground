@@ -9,13 +9,13 @@ laszlo.angyal@pan-net.eu
 - AT&T v. Pan-Net
 
 ---
-### Beryllium development
-- milestone: https://gitlab.tools.in.pan-net.eu/groups/cid/-/milestones/28
+Beryllium development
+milestone: https://gitlab.tools.in.pan-net.eu/groups/cid/-/milestones/28
 ![beryllium-milestone](beryllium-milestone.png)
 
 ---
-### Beryllium development
-- project: https://gitlab.tools.in.pan-net.eu/cid/beryllium
+Beryllium development
+project: https://gitlab.tools.in.pan-net.eu/cid/beryllium
 
 
 ---
