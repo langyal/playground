@@ -4,7 +4,6 @@
 laszlo.angyal@pan-net.eu
 
 #HSLIDE
-### topics:
 - Beryllium development
 - Openstack Summit 2018 May, Vancouver
 - AT&T v. Pan-Net
