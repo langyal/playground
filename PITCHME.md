@@ -34,24 +34,26 @@ https://gitlab.tools.in.pan-net.eu/cid/beryllium
 </span>
 
 we use three project milstones:
+```
 - beryllium/design (Day 0)
 - beryllium/build (Day 1)
 - beryllium/operate (Day 2)
+```
 
 ---
 Be design highlights: versions
 
 Lithium -> Beryllium
 ```
-Ubuntu version: trusty/14.04 -> xenial/16.04
-Kernel version: 4.x
-Contrail version: 3.2.x -> 4.1.x
-Openstack version: Mitaka -> Ocata
-CEPH version: Jewel/10.2.x 
-infra units: trusty/14.04 -> xenial/16.04
-maas: 2.x
-juju: 2.x
-openstack-charms: 16.04 ->latest
+- Ubuntu version: trusty/14.04 -> xenial/16.04
+- Kernel version: 4.x
+- Contrail version: 3.2.x -> 4.1.x
+- Openstack version: Mitaka -> Ocata
+- CEPH version: Jewel/10.2.x 
+- infra units: trusty/14.04 -> xenial/16.04
+- maas: 2.x
+- juju: 2.x
+- openstack-charms: 16.04 ->latest
 ```
 
 ---
@@ -59,36 +61,36 @@ Be design highlights: rack->server
 
 Lithium: rack-role-driven design
 ```
-rack-role-driven design
-storage rack
-compute rack
-management rack
+- rack-role-driven design
+- storage rack
+- compute rack
+- management rack
 ```
 
-Beryllium: **server-role-driven** design
+Beryllium: server-role-driven design
 ```
-unified rack
-server role defines config
-no special mgmt rack design
+- unified rack
+- server role defines config
+- no special mgmt rack design
 ```
 
 ---
 Be design highlights: management cluster design
 
 ```
-we still have to use L2
-experimental: DNS based
-goal: switch to L3 technology
-currently, scaling at the mgmt plane is not an issue
+- we still have to use L2
+- experimental: DNS based
+- goal: switch to L3 technology
+- currently, scaling at the mgmt plane is not an issue
 ```
 
 ---
 Be design highlights: Infrastructure as Code
 
 ```
-gitlab integrated development: pipelines
-documentation as code (gitlab pages)
-code review: next challenge
+- gitlab integrated development: pipelines
+- documentation as code (gitlab pages)
+- code review: next challenge
 ```
 
 ---
@@ -102,9 +104,9 @@ Lithium: not considered
 
 Beryllium: we must provide some services
 ```
-ip anycast
-object storage replication
-global health check
+- ip anycast
+- object storage replication
+- global health check
 ```
 
 ---
