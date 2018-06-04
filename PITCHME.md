@@ -176,8 +176,19 @@ Juju charms update, James Page / Canonical
     - cells v2
     - octavia
     - expanded cert mgmt
-    - later: API load balancer
-    - later: OVN (Open Virtual Network) 
+    - later: API load balancer, OVN (Open Virtual Network) 
+```
+
+---
+#### Openstack Summit: building the cloud #4
+
+edge / distributed cloud
+```
+- starlingX: https://github.com/starlingx-staging/
+- almost nothing: https://www.akraino.org/
+- academic: Openstack and  Edge - https://wiki.openstack.org/wiki/Fog_Edge_Massively_Distributed_Clouds
+  - summary: partially YES, basically NO
+  - some effort on keystone side: trying different DB backends/scenarios
 ```
 
 ---
