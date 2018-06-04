@@ -143,11 +143,11 @@ Beryllium: considered
 #### Openstack Summit: building the cloud #1
 
 - openstack-helm
-  - build openstack via helm charts: https://github.com/openstack/openstack-helm-infra
+  - build openstack via helm charts: <span style="font-size:0.6em"> https://github.com/openstack/openstack-helm-infra </span>
 
 - kolla
-  - kolla-ansible (docker): https://docs.openstack.org/kolla-ansible/latest/
-  - kolla-kubernetes: https://docs.openstack.org/kolla-kubernetes/latest/
+  - kolla-ansible (docker): <span style="font-size:0.6em"> https://docs.openstack.org/kolla-ansible/latest/ </span>
+  - kolla-kubernetes: <span style="font-size:0.6em"> https://docs.openstack.org/kolla-kubernetes/latest/ </span>
 
 ---
 #### Openstack Summit: building the cloud #2
@@ -155,7 +155,7 @@ Beryllium: considered
 Airship: http://www.airshipit.org
 - AT&T: Rodolfo Pacheco, Alan Meadows
 - basically, openstack-helm _extra_
-- https://www.youtube.com/watch?reload=9&v=ckcLnBqGQrQ
+- <span style="font-size:0.6em"> https://www.youtube.com/watch?reload=9&v=ckcLnBqGQrQ </span>
 
 
 ---
