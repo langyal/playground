@@ -223,6 +223,7 @@ getting started with kubernetes
 ```
 - minikube: https://kubernetes.io/docs/getting-started-guides/minikube/
 - microK8S: https://github.com/juju-solutions/microk8s/
+- kubernetes with 3 VMs: https://itnext.io/kubernetes-on-ubuntu-on-virtualbox-60e8ce7c85ed
 ```
 
 ---
