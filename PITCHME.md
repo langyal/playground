@@ -39,7 +39,7 @@ we use three project milstones:
 - beryllium/operate (Day 2)
 
 ---
-design highlights: versions
+Be design highlights: versions
 
 Lithium -> Beryllium
 ```
@@ -52,6 +52,24 @@ infra units: trusty/14.04 -> xenial/16.04
 maas: 2.x
 juju: 2.x
 openstack-charms: 16.04 ->latest
+```
+
+---
+Be design highlights: rack->server
+
+Lithium: rack-role-driven design
+```
+rack-role-driven design
+storage rack
+compute rack
+management rack
+```
+
+Beryllium: server-role-driven design
+```
+unified rack
+server role defines config
+no special mgmt rack design
 ```
 
 
