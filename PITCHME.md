@@ -11,6 +11,7 @@ laszlo.angyal@pan-net.eu
 ---
 Beryllium: Design, Build, Operate
 milestone: https://gitlab.tools.in.pan-net.eu/groups/cid/-/milestones/28
+```
 - this milestone is used as a summary of activities
 - connect bigger issues to this milestone like [_kick-off_] (https://gitlab.tools.in.pan-net.eu/cid/beryllium/blob/master/04--general.d/beryllium-kickoff.md), _overview_,  _datacenter delivery_, etc.
 - detailed tasks should be connected to the milestones under the project [`beryllium`] (https://gitlab.tools.in.pan-net.eu/cid/beryllium)
@@ -33,6 +34,7 @@ milestone: https://gitlab.tools.in.pan-net.eu/groups/cid/-/milestones/28
   - [milestone] (https://gitlab.tools.in.pan-net.eu/cid/beryllium/milestones/3)
 - [online documentation] (http://cid.docs.tools.in.pan-net.eu/beryllium)
 - [table of presence] (https://docs.google.com/spreadsheets/d/14b4w7tY7hHpn1dTGQhi7_m9kK-AkITrmobvmv1nprJ4/edit#gid=85712807)
+```
 
 ---
 Beryllium development
