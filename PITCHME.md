@@ -105,12 +105,12 @@ ready: post-deployment applied also
 
 Lithium:
 ```
-- gitlab pipeline can be run from stage **ready-for-cloud**
+- gitlab pipeline can be run from stage *ready-for-cloud*
 ```
 
 Beryllium:
 ```
-- gitlab pipeline can be run from stage **ready-for-foundation**
+- gitlab pipeline can be run from stage *ready-for-foundation*
 - gitlab integrated development
 - documentation as code (gitlab pages)
 - code review: next challenge
