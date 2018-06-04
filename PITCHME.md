@@ -9,7 +9,7 @@ laszlo.angyal@pan-net.eu
 - AT&T v. Pan-Net
 
 ---
-milestone: Beryllium: Design, Build, Operate
+Beryllium: Design, Build, Operate
 <span style="font-size:0.6em; color:blue">
 https://gitlab.tools.in.pan-net.eu/groups/cid/-/milestones/28
 </span>
@@ -26,8 +26,28 @@ this milestone is used as a summary of activities; examples:
 ```
 
 ---
-Beryllium development
-project: https://gitlab.tools.in.pan-net.eu/cid/beryllium
+beryllium project
+<span style="font-size:0.6em; color:blue">
+https://gitlab.tools.in.pan-net.eu/cid/beryllium
+</span>
+we use three project milstones:
+- beryllium/design (Day 0)
+- beryllium/build (Day 1)
+- beryllium/operate (Day 2)
+
+---
+design highlights: versions
+**Lithium** | **Beryllium
+------------|------------
+Ubuntu version: trusty/14.04 | Ubuntu version: xenial/16.04
+Kernel version: 4.4 | Kernel version: 4.4.x
+Contrail version: 3.2.x | Contrail version: 4.1.x
+Openstack version: Mitaka | Openstack version: Ocata
+CEPH version: Jewel/10.2.x | CEPH version: Jewel/10.2.x
+infra units: trusty/14.04 | infra units: xenial/16.04
+maas: 2.x | maas: 2.x
+juju: 2.x | juju: 2.x
+openstack-charms: 16.04 | openstack-charms: latest
 
 
 ---
