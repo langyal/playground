@@ -149,6 +149,9 @@ Beryllium: considered
   - kolla-ansible: <span style="font-size:0.6em"> https://docs.openstack.org/kolla-ansible/latest/ </span>
   - kolla-kubernetes: <span style="font-size:0.6em"> https://docs.openstack.org/kolla-kubernetes/latest/ </span>
 
+- triple-O
+  - use openstack for openstack <span style="font-size:0.6em"> https://docs.openstack.org/tripleo-docs/latest/ </span>
+
 ---
 #### Openstack Summit: building the cloud #2
 
@@ -184,11 +187,54 @@ Juju charms update, James Page / Canonical
 
 edge / distributed cloud
 ```
-- starlingX: https://github.com/starlingx-staging/
-- almost nothing: https://www.akraino.org/
-- academic: Openstack and  Edge - https://wiki.openstack.org/wiki/Fog_Edge_Massively_Distributed_Clouds
+- academic: Openstack and Edge - https://wiki.openstack.org/wiki/Fog_Edge_Massively_Distributed_Clouds
   - summary: partially YES, basically NO
   - some effort on keystone side: trying different DB backends/scenarios
+- starlingX: https://github.com/starlingx-staging/
+```
+
+---
+#### Openstack Summit: using the cloud #1
+
+```
+- katacontainers: https://katacontainers.io/
+  - at the speed of a container
+  - with the security of a VM
+- kubevirt: running VM (!) in kubernetes - http://www.kubevirt.io/
+- kubevirt + katacontainers: http://superuser.openstack.org/articles/kubevirt-kata-containers-vm-use-case/ 
+```
+
+---
+#### Openstack Summit: using the cloud #2
+
+openstack + containers
+```
+- white paper: https://www.openstack.org/containers/whitepaper
+- speech: https://www.youtube.com/watch?v=qaegQb5WiNY
+- magnum: openstack project to help deploying a kubernetes cluster
+- zun: openstack project to run "just containers"
+- stackube: openstack project to provide plugins for kubernetes to keystone|cinder|neutron
+```
+
+---
+#### Openstack Summit: using the cloud #3
+
+getting started with kubernetes
+```
+- minikube: https://kubernetes.io/docs/getting-started-guides/minikube/
+- microK8S: https://github.com/juju-solutions/microk8s/
+```
+
+---
+#### Openstack Summit: using the cloud #4
+
+interesting topics
+```
+- zuul: "Stop Merging Broken Code"
+- secustack: image, volume encryption
+- vitrage: openstack Root Cause Analysis
+- infinidat: CEO is Moshe Yanai (Symmetrix, XIV)
+- istio: connect, manage, and secure microservices
 ```
 
 ---
