@@ -32,6 +32,7 @@ beryllium project
 <span style="font-size:0.6em; color:blue">
 https://gitlab.tools.in.pan-net.eu/cid/beryllium
 </span>
+
 we use three project milstones:
 - beryllium/design (Day 0)
 - beryllium/build (Day 1)
@@ -39,7 +40,9 @@ we use three project milstones:
 
 ---
 design highlights: versions
+
 Lithium -> Beryllium
+```
 Ubuntu version: trusty/14.04 -> xenial/16.04
 Kernel version: 4.x
 Contrail version: 3.2.x -> 4.1.x
@@ -49,6 +52,7 @@ infra units: trusty/14.04 -> xenial/16.04
 maas: 2.x
 juju: 2.x
 openstack-charms: 16.04 ->latest
+```
 
 
 ---
