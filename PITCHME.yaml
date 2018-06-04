@@ -1,1 +1,3 @@
-highlight: Markdown
+highlight: markdown
+
+theme: moon
