@@ -96,21 +96,21 @@ Beryllium:
 
 stages:
 ```
-greenfield: even the network is unconfigured
-ready-for-foundation: 3 infra nodes + network is configured
-ready-for-cloud: foundation is deployed
-ready-for-postdeployment: cloud is deployed
-ready: post-deployment applied also
+[greenfield]: even the network is unconfigured
+[ready-for-foundation]: 3 infra nodes + network is configured
+[ready-for-cloud]: foundation is deployed
+[ready-for-postdeployment]: cloud is deployed
+[ready]: post-deployment applied also
 ```
 
 Lithium:
 ```
-- gitlab pipeline can be run from stage *ready-for-cloud*
+- gitlab pipeline can be run from stage [ready-for-cloud]
 ```
 
 Beryllium:
 ```
-- gitlab pipeline can be run from stage *ready-for-foundation*
+- gitlab pipeline can be run from stage [ready-for-foundation]
 - gitlab integrated development
 - documentation as code (gitlab pages)
 - code review: next challenge
