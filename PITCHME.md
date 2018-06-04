@@ -85,7 +85,7 @@ Beryllium: server-role-driven design
 ```
 
 ---
-## Be design highlights: Infrastructure as Code
+#### Be design highlights: Infrastructure as Code
 
 ```
 - gitlab integrated development: pipelines
@@ -94,7 +94,7 @@ Beryllium: server-role-driven design
 ```
 
 ---
-###### Be design highlights: logical networks
+#### Be design highlights: logical networks
 ![ic-network-design.001.png](ic-network-design.001.png)
 
 ---
