@@ -11,7 +11,7 @@ laszlo.angyal@pan-net.eu
 ---
 Beryllium development
 milestone: https://gitlab.tools.in.pan-net.eu/groups/cid/-/milestones/28
----beryllium-milestone.png&size=auto 80%
+![beryllium-milestone.png](beryllium-milestone.png {width=80% height=80%})
 
 
 ---
