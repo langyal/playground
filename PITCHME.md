@@ -27,13 +27,13 @@ this milestone is used as a summary of activities; examples:
 ```
 
 ---
-# beryllium project
+## beryllium project
 
 <span style="font-size:0.6em">
 https://gitlab.tools.in.pan-net.eu/cid/beryllium
 </span>
 
-## we use three project milstones:
+we use three project milstones:
 ```
 - beryllium/design (Day 0)
 - beryllium/build (Day 1)
@@ -41,9 +41,9 @@ https://gitlab.tools.in.pan-net.eu/cid/beryllium
 ```
 
 ---
-# Be design highlights: versions
+## Be design highlights: versions
 
-## Lithium -> Beryllium
+Lithium -> Beryllium
 ```
 - Ubuntu version: trusty/14.04 -> xenial/16.04
 - Kernel version: 4.x
@@ -59,7 +59,7 @@ https://gitlab.tools.in.pan-net.eu/cid/beryllium
 ---
 Be design highlights: rack->server
 
-## Lithium: rack-role-driven design
+Lithium: rack-role-driven design
 ```
 - rack-role-driven design
 - storage rack
@@ -67,7 +67,7 @@ Be design highlights: rack->server
 - management rack
 ```
 
-## Beryllium: server-role-driven design
+Beryllium: server-role-driven design
 ```
 - unified rack
 - server role defines config
