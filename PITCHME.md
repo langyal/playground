@@ -95,11 +95,13 @@ Beryllium:
 #### Be design highlights: Infrastructure as Code
 
 stages:
+```
 greenfield: even the network is unconfigured
 ready-for-foundation: 3 infra nodes + network is configured
 ready-for-cloud: foundation is deployed
 ready-for-postdeployment: cloud is deployed
 ready: post-deployment applied also
+```
 
 Lithium:
 ```
