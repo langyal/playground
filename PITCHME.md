@@ -77,6 +77,13 @@ Beryllium: server-role-driven design
 ---
 #### Be design highlights: management cluster design
 
+Lithium:
+```
+- separated mgmt rack(s)
+- L2 networks
+```
+
+Beryllium:
 ```
 - we still have to use L2
 - experimental: DNS based
@@ -87,8 +94,22 @@ Beryllium: server-role-driven design
 ---
 #### Be design highlights: Infrastructure as Code
 
+stages:
+greenfield: even the network is unconfigured
+ready-for-foundation: 3 infra nodes + network is configured
+ready-for-cloud: foundation is deployed
+ready-for-postdeployment: cloud is deployed
+ready: post-deployment applied also
+
+Lithium:
 ```
-- gitlab integrated development: pipelines
+- gitlab pipeline can be run from stage **ready-for-cloud**
+```
+
+Beryllium:
+```
+- gitlab pipeline can be run from stage **ready-for-foundation**
+- gitlab integrated development
 - documentation as code (gitlab pages)
 - code review: next challenge
 ```
