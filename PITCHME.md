@@ -65,7 +65,7 @@ compute rack
 management rack
 ```
 
-Beryllium: server-role-driven design
+Beryllium: **server-role-driven** design
 ```
 unified rack
 server role defines config
