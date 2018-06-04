@@ -9,7 +9,7 @@ laszlo.angyal@pan-net.eu
 - AT&T v. Pan-Net
 
 ---
-### Beryllium: Design, Build, Operate
+## Beryllium: Design, Build, Operate
 
 <span style="font-size:0.6em">
 https://gitlab.tools.in.pan-net.eu/groups/cid/-/milestones/28
