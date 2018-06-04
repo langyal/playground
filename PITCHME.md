@@ -9,13 +9,13 @@ laszlo.angyal@pan-net.eu
 - AT&T v. Pan-Net
 
 ---
-# Beryllium: Design, Build, Operate
+## Beryllium: Design, Build, Operate
 
 <span style="font-size:0.6em">
 https://gitlab.tools.in.pan-net.eu/groups/cid/-/milestones/28
 </span>
 
-## this milestone is used as a summary of activities; examples:
+### this milestone is used as a summary of activities; examples:
 ```
 - versions to be used
 - Li-Be differences highlights
