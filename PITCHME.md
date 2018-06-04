@@ -96,6 +96,18 @@ Be design highlights: logical networks
 ![ic-network-design.001.png](ic-network-design.001.png)
 
 ---
+Be design highlights: multi-site
+
+Lithium: not considered
+
+Beryllium: we must provide some services
+```
+ip anycast
+object storage replication
+global health check
+```
+
+---
 ## Openstack Summit 2018 May, Vancouver
 
 
