@@ -14,7 +14,7 @@ milestone: Beryllium: Design, Build, Operate
 https://gitlab.tools.in.pan-net.eu/groups/cid/-/milestones/28
 </span>
 
-<span style="font-size:0.6em">
+<span style="font-size:0.6em; color:blue">
 - this milestone is used as a summary of activities
 - connect bigger issues to this milestone like [_kick-off_] (https://gitlab.tools.in.pan-net.eu/cid/beryllium/blob/master/04--general.d/beryllium-kickoff.md), _overview_,  _datacenter delivery_, etc.
 - detailed tasks should be connected to the milestones under the project [`beryllium`] (https://gitlab.tools.in.pan-net.eu/cid/beryllium)
