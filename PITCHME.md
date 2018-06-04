@@ -1,22 +1,28 @@
 
-#HSLIDE
+---
 ## Campus 2018Q2, Zagreb
 laszlo.angyal@pan-net.eu
 
-#HSLIDE
+---
 - Beryllium development
 - Openstack Summit 2018 May, Vancouver
 - AT&T v. Pan-Net
 
-#HSLIDE
-## Beryllium development
+---
+### Beryllium development
+- milestone: https://gitlab.tools.in.pan-net.eu/groups/cid/-/milestones/28
+![beryllium-milestone](beryllium-milestone.png)
+
+---
+### Beryllium development
+- project: https://gitlab.tools.in.pan-net.eu/cid/beryllium
 
 
-#HSLIDE
+---
 ## Openstack Summit 2018 May, Vancouver
 
 
-#HSLIDE
+---
 ## AT&T v. Pan-Net
 
 
