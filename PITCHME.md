@@ -1,6 +1,7 @@
 
 #HSLIDE
 ## Campus 2018Q2, Zagreb
+laszlo.angyal@pan-net.eu
 
 #HSLIDE
 ### topics:
