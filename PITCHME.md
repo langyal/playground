@@ -41,7 +41,7 @@ we use three project milstones:
 ```
 
 ---
-## Be design highlights: versions
+#### Be design highlights: versions
 
 Lithium -> Beryllium
 ```
@@ -57,7 +57,7 @@ Lithium -> Beryllium
 ```
 
 ---
-## Be design highlights: rack->server
+#### Be design highlights: rack->server
 
 Lithium: rack-role-driven design
 ```
@@ -75,7 +75,7 @@ Beryllium: server-role-driven design
 ```
 
 ---
-## Be design highlights: management cluster design
+#### Be design highlights: management cluster design
 
 ```
 - we still have to use L2
@@ -98,7 +98,7 @@ Beryllium: server-role-driven design
 ![ic-network-design.001.png](ic-network-design.001.png)
 
 ---
-## Be design highlights: multi-site
+#### Be design highlights: multi-site
 
 Lithium: not considered
 
