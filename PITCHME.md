@@ -157,6 +157,28 @@ Airship: http://www.airshipit.org
 - basically, openstack-helm _extra_
 - <span style="font-size:0.6em"> https://www.youtube.com/watch?reload=9&v=ckcLnBqGQrQ </span>
 
+---
+#### Openstack Summit: building the cloud #3
+
+Juju charms update, James Page / Canonical
+```
+- neutron dynamic routing using BGP
+- encryption data at rest
+    - dm-crypt/LUKS
+    - key mgmt: Vault (Hashicorp)
+- TLS cert. mgmt
+- Ubuntu 18.04 LTS support
+- openstack
+    - panko (telemetry)
+    - ceph bluestore validation
+    - fernet tokens
+    - rocky release
+    - cells v2
+    - octavia
+    - expanded cert mgmt
+    - later: API load balancer
+    - later: OVN (Open Virtual Network) 
+```
 
 ---
 ## AT&T v. Pan-Net
