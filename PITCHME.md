@@ -209,8 +209,8 @@ edge / distributed cloud
 
 openstack + containers
 ```
-- white paper: <span style="font-size:0.6em"> https://www.openstack.org/containers/whitepaper </span>
-- speech: <span style="font-size:0.6em"> https://www.youtube.com/watch?v=qaegQb5WiNY </span>
+- white paper: https://www.openstack.org/containers/whitepaper
+- speech: https://www.youtube.com/watch?v=qaegQb5WiNY
 - magnum: OS project to help deploying a kubernetes cluster
 - zun: OS project to run "just containers"
 - stackube: OS project to provide OS plugins for kubernetes
@@ -221,9 +221,9 @@ openstack + containers
 
 getting started with kubernetes
 ```
-- minikube: <span style="font-size:0.6em"> https://kubernetes.io/docs/getting-started-guides/minikube/ </span>
-- microK8S: <span style="font-size:0.6em"> https://github.com/juju-solutions/microk8s/ </span>
-- kubernetes with 3 VMs: <span style="font-size:0.6em"> https://itnext.io/kubernetes-on-ubuntu-on-virtualbox-60e8ce7c85ed </span>
+- minikube: https://kubernetes.io/docs/getting-started-guides/minikube/
+- microK8S: https://github.com/juju-solutions/microk8s/
+- kubernetes with 3 VMs: https://itnext.io/kubernetes-on-ubuntu-on-virtualbox-60e8ce7c85ed
 ```
 
 ---
