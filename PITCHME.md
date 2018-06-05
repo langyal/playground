@@ -33,7 +33,7 @@ this milestone is used as a summary of activities; examples:
 https://gitlab.tools.in.pan-net.eu/cid/beryllium
 </span>
 
-we use three project milstones:
+we use three project milestones:
 ```
 - beryllium/design (Day 0)
 - beryllium/build (Day 1)
@@ -187,10 +187,10 @@ Juju charms update, James Page / Canonical
 
 edge / distributed cloud
 ```
-- academic: Openstack and Edge - <span style="font-size:0.6em"> https://wiki.openstack.org/wiki/Fog_Edge_Massively_Distributed_Clouds </span>
+- academic: Openstack and Edge - https://wiki.openstack.org/wiki/Fog_Edge_Massively_Distributed_Clouds
   - summary: partially YES, basically NO
   - some effort on keystone side: trying different DB backends/scenarios
-- starlingX: <span style="font-size:0.6em"> https://github.com/starlingx-staging/ </span>
+- starlingX: https://github.com/starlingx-staging/
 ```
 
 ---
@@ -201,7 +201,7 @@ edge / distributed cloud
   - at the speed of a container
   - with the security of a VM
 - kubevirt: running VM (!) in kubernetes - http://www.kubevirt.io/
-- kubevirt + katacontainers: <span style="font-size:0.6em"> http://superuser.openstack.org/articles/kubevirt-kata-containers-vm-use-case/ </span>
+- kubevirt + katacontainers: http://superuser.openstack.org/articles/kubevirt-kata-containers-vm-use-case/
 ```
 
 ---
