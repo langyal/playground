@@ -187,10 +187,10 @@ Juju charms update, James Page / Canonical
 
 edge / distributed cloud
 ```
-- academic: Openstack and Edge - https://wiki.openstack.org/wiki/Fog_Edge_Massively_Distributed_Clouds
+- academic: Openstack and Edge - <span style="font-size:0.6em"> https://wiki.openstack.org/wiki/Fog_Edge_Massively_Distributed_Clouds </span>
   - summary: partially YES, basically NO
   - some effort on keystone side: trying different DB backends/scenarios
-- starlingX: https://github.com/starlingx-staging/
+- starlingX: <span style="font-size:0.6em"> https://github.com/starlingx-staging/ </span>
 ```
 
 ---
@@ -201,7 +201,7 @@ edge / distributed cloud
   - at the speed of a container
   - with the security of a VM
 - kubevirt: running VM (!) in kubernetes - http://www.kubevirt.io/
-- kubevirt + katacontainers: http://superuser.openstack.org/articles/kubevirt-kata-containers-vm-use-case/ 
+- kubevirt + katacontainers: <span style="font-size:0.6em"> http://superuser.openstack.org/articles/kubevirt-kata-containers-vm-use-case/ </span>
 ```
 
 ---
@@ -209,11 +209,11 @@ edge / distributed cloud
 
 openstack + containers
 ```
-- white paper: https://www.openstack.org/containers/whitepaper
-- speech: https://www.youtube.com/watch?v=qaegQb5WiNY
-- magnum: openstack project to help deploying a kubernetes cluster
-- zun: openstack project to run "just containers"
-- stackube: openstack project to provide plugins for kubernetes to keystone|cinder|neutron
+- white paper: <span style="font-size:0.6em"> https://www.openstack.org/containers/whitepaper </span>
+- speech: <span style="font-size:0.6em"> https://www.youtube.com/watch?v=qaegQb5WiNY </span>
+- magnum: OS project to help deploying a kubernetes cluster
+- zun: OS project to run "just containers"
+- stackube: OS project to provide OS plugins for kubernetes
 ```
 
 ---
@@ -221,9 +221,9 @@ openstack + containers
 
 getting started with kubernetes
 ```
-- minikube: https://kubernetes.io/docs/getting-started-guides/minikube/
-- microK8S: https://github.com/juju-solutions/microk8s/
-- kubernetes with 3 VMs: https://itnext.io/kubernetes-on-ubuntu-on-virtualbox-60e8ce7c85ed
+- minikube: <span style="font-size:0.6em"> https://kubernetes.io/docs/getting-started-guides/minikube/ </span>
+- microK8S: <span style="font-size:0.6em"> https://github.com/juju-solutions/microk8s/ </span>
+- kubernetes with 3 VMs: <span style="font-size:0.6em"> https://itnext.io/kubernetes-on-ubuntu-on-virtualbox-60e8ce7c85ed </span>
 ```
 
 ---
@@ -244,8 +244,7 @@ interesting topics
 ---
 #### AT&T
 ```
-- employees: fixme
-- operating system: Ubuntu
+- cloud operating system: Ubuntu
 - framework: openstack-helm (kubernetes)
 - product: airship, opensource
 - in production: yes, ~12 deployment supporting 5G
@@ -253,8 +252,7 @@ interesting topics
 
 #### Pan-Net:
 ```
-- employees: 200
-- operating system: Ubuntu
+- cloud operating system: Ubuntu
 - framework: juju
 - product: IC, private (currently)
 - in production: yes
